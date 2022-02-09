@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/address.cpp
+string
+-
+
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/address.h
+stdio.h
+-
+
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/employee.cpp
+address.h
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/address.h
+
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/employee.h
+
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/main.cpp
+employee.h
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/employee.h
+address.h
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/address.h
+

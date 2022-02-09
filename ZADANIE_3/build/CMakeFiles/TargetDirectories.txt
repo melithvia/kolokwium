@@ -1,0 +1,3 @@
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/CMakeFiles/rebuild_cache.dir
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/CMakeFiles/edit_cache.dir
+/home/patrycja/Desktop/cmake/zad__2-202/zad__2/CMakeFiles/zad2.dir
